@@ -1,8 +1,8 @@
 import { useContext } from "react";
 import { useEffect } from "react";
 import { useState } from "react"
-import { AppContext } from "../AppContext";
-import { logout } from "../Reducer";
+import { AppContext } from "./AppContext";
+import { logout } from "./Reducer";
 
 export default function Dashboard(){
 
