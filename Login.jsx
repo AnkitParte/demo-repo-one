@@ -1,7 +1,7 @@
 import { useContext } from "react";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { AppContext } from "../AppContext";
+import { AppContext } from "./AppContext";
 
 export default function Login(){
     const [state,setState] = useState({email:"",password:""})
