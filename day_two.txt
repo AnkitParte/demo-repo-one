@@ -1,1 +1,3 @@
 hello day-two-textfile
+
+now going to update this too, for having some practice
