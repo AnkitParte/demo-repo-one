@@ -1,5 +1,5 @@
 import { Routes,Route } from "react-router-dom";
-import PrivateRoute from "../PrivateRoute";
+import PrivateRoute from "./PrivateRoute";
 import Contact from "./Contact";
 import Dashboard from "./Dashboard";
 import Home from "./Home";
