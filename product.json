@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/f0d9c7ceb30547b56a59d09e94fa32585ca0db92/Bobran-Modern-Velvet-3-Seater-Sofa-by-Christopher-Knight-Home.jpg?imwidth=480&impolicy=medium",
+        "price":40000,
+        "details":"Bobran Velvet sofa by the Christopher knight Home",
+        "author":"Christopher Knight Home"
+    },
+    {
+        "id":2,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/3c541c23c67c514e2daa59a6937aa28e15b669c9/Porch-%26-Den-Claiborne-California-King-Convertible-Sleeper-Sofa-and-Ottomans.jpg?imwidth=480&impolicy=medium",
+        "price":45000,
+        "details":"Porch and Den convertible Sleeper sofa and Ottomans",
+        "author":"Christopher Knight Home"
+    },
+    {
+        "id":3,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/f197e93d5efe0ca8a11726e86315e7c68bf39ef2/Knightsbridge-Beige-Fabric-Button-Tufted-Chesterfield-Sofa-and-Seating-by-iNSPIRE-Q-Artisan.jpg?imwidth=480&impolicy=medium",
+        "price":50000,
+        "details":"Knight bridge Beige Chesterfield sofa by Inspiran Q Artisan",
+        "author":"Inspire Q Artisan"
+    },
+    {
+        "id":4,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/456eefc6f57dc82f2fc295518f0752f816876bfe/Morden-Fort-Couches-for-Living-Room%2C-Sofas-for-Living-Room-Furniture-Sets%2C-Sofa%2C-Fabric%2C-Velvet.jpg?imwidth=480&impolicy=medium",
+        "price":55000,
+        "details":"Mordan love seat arms Uphoistered Fabric sofa with pillow",
+        "author":"MorDan Inc."
+    },
+    {
+        "id":5,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/86cca03f68323f447b7260666db00ec00da7a311/Stockton-73W-Sofa-by-Bush-Furniture.jpg?imwidth=480&impolicy=medium",
+        "price":60000,
+        "details":"Mordan love Velvet sofa Uphoistered Chesterfield ",
+        "author":"MorDan Inc."
+    },
+    {
+        "id":6,
+        "img":"https://ak1.ostkcdn.com/images/products/14045508/Knightsbridge-Grey-Extra-Long-Tufted-Chesterfield-Modular-Sofa-by-iNSPIRE-Q-Artisan-bf3bc417-6998-4ab8-ba7c-26e9225193c6_600.jpg?imwidth=480&impolicy=medium",
+        "price":65000,
+        "details":"StockTon 73W sofa by Bush Furniture",
+        "author":"Bush Furniture"
+    },
+    {
+        "id":7,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/5fefa8fdc8f4b5e3e189538c6d53e0a04ec69288/Barto-Comfy-45%22Loveseat-with-Tufted-Back.jpg?imwidth=480&impolicy=medium",
+        "price":70000,
+        "details":"ButterWood Finish HardWood Queen Futon sofas with mattress ",
+        "author":"Inspire Q Artisan"
+    },
+    {
+        "id":8,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/2fcdb8d617a2a2df2c907b9e8e5f3897188e73d8/Knightsbridge-Tufted-Scroll-Arm-Chesterfield-Sofa-by-iNSPIRE-Q-Artisan.jpg?imwidth=480&impolicy=medium",
+        "price":75000,
+        "details":"Home Fabric Velvet sofa with the replacabe mattress",
+        "author":"Inspire Q Artisan"
+    },
+    {
+        "id":9,
+        "img":"https://ak1.ostkcdn.com/images/products/26275463/McCallister-Oatmeal-Tweed-Fabric-Seating-by-iNSPIRE-Q-Artisan-c0ddd0e0-f7db-4df0-a305-0c6c86886fcc_600.jpg?imwidth=480&impolicy=medium",
+        "price":80000,
+        "details":"Copperburg Grove Hazburg Fabric sofa by the Bush furniture",
+        "author":"Bush Furniture"
+    },
+    {
+        "id":10,
+        "img":"https://ak1.ostkcdn.com/images/products/is/images/direct/9a796cf85955f76e147848fa24da43854f6dd9f4/Stockton-85W-Sofa-by-Bush-Furniture.jpg?imwidth=480&impolicy=medium",
+        "price":85000,
+        "details":"Modern Fort Moder sofa with Deep Dutch Velvet, Iron regs",
+        "author":"Bush Furniture"
+    }
+]
